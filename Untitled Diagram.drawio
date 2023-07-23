@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T12:32:47.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="qq1hmdMaPj6jESwRl6zD" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T12:56:10.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="Fq8JOSgee6AiWCJaeGvv" version="21.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="739" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="985" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,16 +8,16 @@
           <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-1" value="Virtual Here Host (USB Hub)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-2" value="Client Application-1" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="377" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-3" value="Client Application-2" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="377" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-4" value="Client Application-3" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="377" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jobm1qy9OJEcAcUemoMd-30" target="Jobm1qy9OJEcAcUemoMd-22" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-15" value="Resource Librarian Data" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="33" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Jobm1qy9OJEcAcUemoMd-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -60,10 +60,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-16" value="IAT Data Mart&lt;br&gt;(testdata, poolqueue)" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="33" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-20" value="&lt;div&gt;API&lt;/div&gt;&lt;div&gt;(HTTP, SQL)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="175" width="80" height="30" as="geometry" />
+          <mxGeometry x="143" y="177" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-22" value="FastAPI" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="221.75" width="120" height="20" as="geometry" />
@@ -80,17 +80,41 @@
             <mxPoint x="340" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jobm1qy9OJEcAcUemoMd-26" value="scp (SSH) Cronjob Files" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="335" y="100" width="70" height="30" as="geometry" />
+        <mxCell id="Jobm1qy9OJEcAcUemoMd-26" value="VH Client API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="65" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jobm1qy9OJEcAcUemoMd-30" value="MATLAB App Designer" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="328" width="400" height="20" as="geometry" />
+          <mxGeometry x="170" y="355" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CO-es9w0p4yVsREzBK4z-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="140" width="390" height="120" as="geometry" />
+          <mxGeometry x="280" y="140" width="380" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CO-es9w0p4yVsREzBK4z-1" value="Deployed on the same container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="445" y="110" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CO-es9w0p4yVsREzBK4z-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.772;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CO-es9w0p4yVsREzBK4z-0" target="CO-es9w0p4yVsREzBK4z-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="270" as="sourcePoint" />
+            <mxPoint x="480" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="573" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CO-es9w0p4yVsREzBK4z-3" value="Administrators" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CO-es9w0p4yVsREzBK4z-4" value="SSH commands" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CO-es9w0p4yVsREzBK4z-5" value="E-Mail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CO-es9w0p4yVsREzBK4z-7" value="HTTP Requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="457.5" y="283" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CO-es9w0p4yVsREzBK4z-8" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="445" y="266" width="85" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
