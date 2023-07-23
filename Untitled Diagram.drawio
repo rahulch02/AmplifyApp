@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T17:44:22.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="IWk6zN_v7eAWqbk5qdsN" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T18:08:14.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ZgtYG_Kt9RRPMhk2365p" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="794" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -116,22 +116,34 @@
         <mxCell id="CO-es9w0p4yVsREzBK4z-8" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="445" y="266" width="85" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="zpjMfxtsOaSK0m3NKGrJ-0" value="Web Server Cronjobs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="fZKPGA1pp6T9xWRQY4MH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zpjMfxtsOaSK0m3NKGrJ-0" target="fZKPGA1pp6T9xWRQY4MH-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zpjMfxtsOaSK0m3NKGrJ-1" value="VH USB Hub Cronjobs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zpjMfxtsOaSK0m3NKGrJ-0" value="Web Server Cronjobs" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="235" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpjMfxtsOaSK0m3NKGrJ-1" value="VH USB Hub Cronjobs" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zpjMfxtsOaSK0m3NKGrJ-2" value="Static Properties" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="545" width="80" height="80" as="geometry" />
+        <mxCell id="zpjMfxtsOaSK0m3NKGrJ-2" value="Static Properties" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="465" y="545" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zpjMfxtsOaSK0m3NKGrJ-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="770" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zpjMfxtsOaSK0m3NKGrJ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zpjMfxtsOaSK0m3NKGrJ-3">
+        <mxCell id="zpjMfxtsOaSK0m3NKGrJ-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="408.25" y="740" as="sourcePoint" />
-            <mxPoint x="461.75" y="716" as="targetPoint" />
+            <mxPoint x="323.25" y="740" as="sourcePoint" />
+            <mxPoint x="392.0789629742583" y="787.27984768646" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZKPGA1pp6T9xWRQY4MH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fZKPGA1pp6T9xWRQY4MH-1" target="zpjMfxtsOaSK0m3NKGrJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZKPGA1pp6T9xWRQY4MH-1" value="VH Client API" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="373" y="545" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fZKPGA1pp6T9xWRQY4MH-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="720" as="sourcePoint" />
+            <mxPoint x="510" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
